@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.csainah-along.git"
+    "url": "git+ssh://git@github.com/csainah/WK1-CODE-CHALLENGE.git"
   },
   "keywords": [
     "learn",
@@ -20,9 +20,9 @@
   "author": "Flatiron School",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/js-basics-strings-code-along/issues"
+    "url": "https://github.com/csainah/WK1-CODE-CHALLENGE.git-along/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/js-basics-strings-code-along#readme",
+  "homepage": "https://github.com/csainah/WK1-CODE-CHALLENGE.git-along#readme",
   "devDependencies": {
     "babel-core": "6.26.3",
     "babel-preset-env": "1.7.0",
