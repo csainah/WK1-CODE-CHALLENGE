@@ -1,7 +1,7 @@
 {
   "name": "WK1-CODE-CHALLENGE",
   "version": "0.1.0",
-  "description": "JavaScript Strings Code-along for Learn.co",
+  "description": "JavaScript functions student grade generator",
   "main": "grade.js",
   "scripts": {
     "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json"
@@ -11,14 +11,13 @@
     "url": "git+ssh://git@github.com/csainah/WK1-CODE-CHALLENGE.git"
   },
   "keywords": [
-    "learn",
-    "flatiron school",
+    "grade",
+    "marks",
     "javascript",
     "strings",
     "code-along"
   ],
-  "author": "Flatiron School",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "author": "csainah",
   "bugs": {
     "url": "https://github.com/csainah/WK1-CODE-CHALLENGE.git-along/issues"
   },
